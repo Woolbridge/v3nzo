@@ -144,7 +144,7 @@ h1, h2, h3, h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: linear-gradient(rgba(10, 10, 15, 0.8), rgba(10, 10, 15, 0.9)), url('https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3') no-repeat center center/cover;
+    background: linear-gradient( rgba(118, 28, 21, 0.9),rgba(0, 0, 0, 0.8)), url('../img/background.jpg') no-repeat center center/cover;
     position: relative;
     padding: 2rem 0;
 }
